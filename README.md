@@ -66,6 +66,6 @@ An agent-supported interface that proactively surfaces connections, trends, and 
 
 <img width="2558" height="1349" alt="Screenshot 2026-04-10 at 3 00 26 PM" src="https://github.com/user-attachments/assets/3328c227-1b96-49e3-abee-d676fa41fe55" />
 
-With AI Analyst
+#### With AI Analyst
 <img width="2558" height="1347" alt="Screenshot 2026-04-10 at 3 16 51 PM" src="https://github.com/user-attachments/assets/6cbeb449-cd12-4336-9c8f-4753b65b704f" />
 
